@@ -3,3 +3,5 @@
 *.class
 *.tmp
 *.bak
+sources*.txt
+.vscode/.metals/
